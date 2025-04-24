@@ -24,8 +24,8 @@ title: Phillip Ma                          # the main title
 tagline: A self-indulgent mess of posts written by yours truly   # it will display as the sub-title
 
 description: >-                        # used by seo meta and the atom feed
-  A blog written by Phillip Ma, who is a doctor working as a bioinformaticist or 
-  health data scientist or a biostatistician depending on who you ask and where mercury is currently
+  A blog written by Phillip Ma, who is a doctor working as a medical informatics researcher or 
+  health data scientist or a biostatistician depending on who you ask and where mercury is.
 
 # fill in the protocol & hostname for your site, e.g., 'https://username.github.io'
 url: ''
@@ -45,8 +45,6 @@ social:
     # The first element serves as the copyright owner's link
     - https://twitter.com/Pheewma      # change to your twitter homepage
     - https://github.com/PhillipMa-MD       # change to your github homepage
-    # Uncomment below to add more social links
-    # - https://www.facebook.com/username
     - https://www.linkedin.com/in/phillip-ma-md/
 
 google_site_verification:               # fill in to your verification string
